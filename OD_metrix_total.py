@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 
 # 엑셀 파일 읽어오기
-input_file = 'C:\\callTaxi\\totalList_OD.xlsx'
+input_file = 'totalList_OD.xlsx'
 
 @st.cache_data
 def load_data(file_path):

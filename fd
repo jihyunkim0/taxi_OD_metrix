@@ -1,0 +1,59 @@
+[33mcommit f641540d2ea9f0ccd6d4e685b7d5e98de0f05682[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: jihyunkim0 <arajh1009@naver.com>
+Date:   Thu Sep 26 10:59:46 2024 +0900
+
+    Add .idea/ to .gitignore
+
+[33mcommit eb8b614a13a94818a0bcef5f3d49da99b1db32a3[m
+Author: jihyunkim0 <arajh1009@naver.com>
+Date:   Thu Sep 26 10:49:00 2024 +0900
+
+    Traxk totalList_OD2.xlsx with Git LFS
+
+[33mcommit 3f7f8019ad885f731d2c5eb4df32da592efa11ad[m
+Author: jihyunkim0 <arajh1009@naver.com>
+Date:   Thu Sep 26 10:47:07 2024 +0900
+
+    Traxk totalList_OD.xlsx with Git LFS
+
+[33mcommit 2afea5061aafc8a5c7ea829bda805c50a5bc588a[m
+Author: jihyunkim0 <arajh1009@naver.com>
+Date:   Thu Sep 26 10:42:11 2024 +0900
+
+    Add existing file
+
+[33mcommit 078d27742b6ab00504b9188c16cec22ff4ede1ae[m
+Author: jihyunkim0 <arajh1009@naver.com>
+Date:   Thu Sep 26 09:33:33 2024 +0900
+
+    Add existing file
+
+[33mcommit c94e772c7b0cc317eac76fb4197b25a83b594623[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: jihyunkim0 <60856927+jihyunkim0@users.noreply.github.com>
+Date:   Thu Sep 26 08:57:57 2024 +0900
+
+    Added Dev Container Folder
+
+[33mcommit e19935eab6b6768f345623e1f95d256ae5bd43d8[m
+Author: jihyunkim0 <60856927+jihyunkim0@users.noreply.github.com>
+Date:   Wed Sep 25 17:52:35 2024 +0900
+
+    Add files via upload
+
+[33mcommit 3f386974b8ec7f509452f0a07928f47007964937[m
+Author: jihyunkim0 <60856927+jihyunkim0@users.noreply.github.com>
+Date:   Wed Sep 25 17:45:39 2024 +0900
+
+    Add files via upload
+
+[33mcommit 8f039fbc1b5d034f8c518c42b3429d360fd6f0eb[m
+Author: jihyunkim0 <60856927+jihyunkim0@users.noreply.github.com>
+Date:   Wed Sep 25 17:37:29 2024 +0900
+
+    Add files via upload
+
+[33mcommit ee8b34acebe66e6cd0b7985042422e2e8d82cc1b[m
+Author: jihyunkim0 <60856927+jihyunkim0@users.noreply.github.com>
+Date:   Wed Sep 25 17:36:38 2024 +0900
+
+    Initial commit
